@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "```\r bodyParser:解析post请求数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QQ1025045812/mongodDb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QQ1025045812/mongodDb/issues"
+  },
+  "homepage": "https://github.com/QQ1025045812/mongodDb#readme",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "cookies": "^0.7.0",
+    "express": "^4.15.3",
+    "markdown": "^0.5.0",
+    "mongoose": "^4.10.3",
+    "swig": "^1.4.2"
+  }
+}
